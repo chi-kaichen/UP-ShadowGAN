@@ -20,4 +20,4 @@ Please refer to the 2C folder.
 # Acknowledgments
 Code is implemented based on https://github.com/xw-hu/Mask-ShadowGAN.
 
-Metric is implemented based on https://ieeexplore.ieee.org/document/7300447 and https://github.com/imfing/CEIQ.
+Metric is implemented based on https://ieeexplore.ieee.org/document/7300447 (UCIQE) and https://github.com/imfing/CEIQ (CEIQ).
