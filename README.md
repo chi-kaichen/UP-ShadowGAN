@@ -18,4 +18,4 @@ Download URSSR from Baidu Cloud: https://pan.baidu.com/s/1yeHS8IHkM15OTafW65DBLg
 Please refer to the 2C folder.
 
 # Acknowledgments
-Code is implemented based on [Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data](https://github.com/xw-hu/Mask-ShadowGAN)https://github.com/xw-hu/Mask-ShadowGAN.
+Code is implemented based on https://github.com/xw-hu/Mask-ShadowGAN.
