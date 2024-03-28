@@ -13,6 +13,7 @@ This is the code of the implementation of the UP-ShadowGAN.
 
 # Unpaired Remote Sensing Shadow Removal Dataset (URSSR)
 Download URSSR from Baidu Cloud: https://pan.baidu.com/s/1yeHS8IHkM15OTafW65DBLg?pwd=1004 key: 1004
+4K: https://pan.baidu.com/s/1VSIDz9n0LVWJum6ulP5wSw?pwd=1004 key: 1004
 
 # chroma-contrast metric (2C)
 Please refer to the 2C folder.
